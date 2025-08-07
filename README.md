@@ -50,3 +50,9 @@ BookAPI is a full-stack ASP.NET MVC web application that allows users to manage 
 1. Clone the repository:
    ```bash
    git clone https://github.com/alesskeroov/BookAPI.git
+   
+If you have any questions, feel free to reach out.
+
+---
+
+**© 2025, Rəvan Ələsgərov**
