@@ -45,9 +45,9 @@ flowchart LR
 
 ```mermaid
 erDiagram
-    AUTHOR ||--o{ BOOK : yazır
-    GENRE ||--o{ BOOK : aiddir
-    PUBLISHER ||--o{ BOOK : nəşr edir
+    AUTHOR ||--o{ BOOK : "yazır"
+    GENRE ||--o{ BOOK : "aiddir"
+    PUBLISHER ||--o{ BOOK : "nəşr edir"
     BOOK {
         int Id
         string Title
